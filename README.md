@@ -4,7 +4,7 @@
 
 ## Команда
 
-- **Агапитов Денис** – PM. По Peer Review курса LLM обращаться ко мне. 
+- **Агапитов Денис** – PM. По Peer Review курса LLM обращаться ко мне.  
   [Telegram](https://t.me/denisadmn) | [GitHub](https://github.com/koshkidadanet)
 
 - **Еншов Владимир** – DS  
